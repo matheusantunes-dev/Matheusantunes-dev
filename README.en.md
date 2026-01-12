@@ -1,6 +1,6 @@
 # 👨‍💻 Matheus Antunes Reis
 <p align="right">
-  <a href="./README.md">🇺🇸 English version</a>
+  <a href="./README.md">🇧🇷 Portuguese version</a>
 </p>
 
 🎯 **Junior Web Developer | Front-end & Back-end**  
