@@ -8,7 +8,14 @@
 💼 Freelancer desde 2022  
 📍 Brasília de Minas - MG, Brasil  
 
-Sou desenvolvedor web júnior com experiência prática em projetos reais, acadêmicos e freelance, atuando no desenvolvimento de aplicações web completas, automações e soluções focadas em resolver problemas de negócio com código limpo, organizado e usável.
+Desenvolvedor Web Júnior com experiência prática desde 2022 na criação de aplicações web, automações
+e soluções digitais voltadas para problemas reais de negócio. Atua tanto no desenvolvimento Front-end
+quanto Back-end, utilizando JavaScript, Node.js e bancos de dados relacionais.
+Possui experiência em projetos freelance, desenvolvimento de ferramentas web, automações em Node.js e
+utilitários em Python. Participou de projeto acadêmico com desenvolvimento completo de site institucional.
+Experiência anterior na área fiscal-contábil, agregando visão analítica, atenção a detalhes e entendimento
+de processos empresariais, contribuindo para a criação de soluções mais alinhadas às necessidades do
+negócio
 
 ---
 
@@ -43,13 +50,17 @@ Sou desenvolvedor web júnior com experiência prática em projetos reais, acad�
 ## 💼 Experiência Profissional
 
 ### 🧑‍💻 Desenvolvedor Web Freelancer (2022 - Atual)
-- Desenvolvimento de **web games** e ferramentas utilitárias
-- Criação de **sites para afiliados de e-commerce**
-- Automação de processos utilizando **Node.js**
-- Desenvolvimento de utilitários em **Python**:
-  - Downloader de músicas e vídeos do YouTube
-  - Calculadoras específicas para demandas empresariais
-- Criação de sistemas focados em produtividade e eficiência
+- Desenvolvimento de aplicações web e web games utilizando HTML, CSS e JavaScript.
+- Criação de ferramenta para conversão automática de números telefônicos para padrão
+  WhatsApp, facilitando campanhas comerciais e reduzindo erros manuais.
+- Desenvolvimento de sites para afiliados de e-commerce com foco em performance e
+  usabilidade.
+- Criação de automações com Node.js para otimização de processos internos em empresa
+  de médio porte.
+- Desenvolvimento de utilitários em Python, incluindo scripts para cálculos específicos
+  sob demanda empresarial.
+- Integração com bancos de dados relacionais em projetos back-end.
+
 
 ---
 
