@@ -89,7 +89,7 @@ Sou desenvolvedor web júnior com experiência prática em projetos reais, acad�
 
 📧 Email: **matheusantunesreis6@gmail.com**  
 📞 Telefone: **(38) 98806-4942**  
-🔗 LinkedIn: [linkedin.com/in/matheus-antunes-reis](https://www.linkedin.com/in/matheus-antunes-reis/)  
+🔗 LinkedIn: [linkedin.com/in/matheusantunes-dev/](https://www.linkedin.com/in/matheusantunes-dev/)  
 🌐 Portfólio: [portifoliomatheusmr.netlify.app](https://portifoliomatheusmr.netlify.app/)
 
 ---
