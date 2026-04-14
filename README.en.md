@@ -87,11 +87,11 @@ Junior Front-End Developer with hands-on experience since 2022. My main differen
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusantunes-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantunes-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150">
 </p>
 
-> ⚠️ **Note:** Don't forget to replace `YOUR_USERNAME_HERE` with your actual GitHub username in the image links above!
+> ⚠️ **Note:** Don't forget to replace `matheusantunes-dev` with your actual GitHub username in the image links above!
 
 ---
 
