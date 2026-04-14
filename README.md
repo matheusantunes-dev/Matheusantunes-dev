@@ -51,25 +51,20 @@ Desenvolvedor Front-End Júnior com experiência prática desde 2022. Meu grande
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-* **Front-end:** SPAs, componentização, manipulação de estado e interfaces responsivas.
-* **Back-end & Dados:** Scripts de automação, APIs simples, modelagem básica e consultas SQL.
-* **Ferramentas:** Versionamento (Git/GitHub), Prototipação (Figma) e Deploy (Vercel/Netlify).
-
 ---
 
 ## 💼 Experiência Profissional
 
-### 🧾 Loja Quatro Estações | Auxiliar Fiscal & Desenvolvedor de Automações
+### 🧾 Loja Quatro Estações | Auxiliar Fiscal & Dev de Automações
 *Fev/2023 – Atual*
-- Lançamento e conferência de NF-e, controle de despesas e suporte a obrigações acessórias (Sintegra).
-- **Impacto Tecnológico:** Desenvolvimento de calculadora interna e utilitários de automação em Python/JS para padronização de cálculos fiscais.
-- 📈 **Resultados:** Redução de **~50% de erros operacionais** e diminuição de **~60% do tempo de execução** de tarefas repetitivas.
+- Lançamento e conferência de NF-e, controle de despesas e suporte fiscal.
+- **Impacto:** Desenvolvimento de utilitários em Python/JS para padronização de cálculos.
+- 📈 **Resultados:** Redução de **~50% de erros operacionais** e economia de **~60% do tempo** em tarefas repetitivas.
 
 ### 🧑‍💻 Projetos Independentes | Desenvolvimento Web
 *2022 – Atual*
-- Criação de aplicações web responsivas utilizando React e JavaScript (ES6+).
-- Estruturação focada em separação de responsabilidades e controle de estado modular.
-- Consumo de APIs REST com tratamento de erros.
+- Desenvolvimento de aplicações web responsivas utilizando React e JavaScript (ES6+).
+- Estruturação baseada em componentização e separação de responsabilidades.
 
 ---
 
@@ -77,9 +72,8 @@ Desenvolvedor Front-End Júnior com experiência prática desde 2022. Meu grande
 
 | 🤖 Mail Sense AI | 🌱 PROCONSVATE |
 | :--- | :--- |
-| **Descrição:** Aplicação web para análise e categorização inteligente de e-mails usando IA. | **Descrição:** Aplicação web educacional voltada à conscientização ambiental. |
+| **Descrição:** Análise e categorização inteligente de e-mails usando IA. | **Descrição:** Aplicação educacional voltada à conscientização ambiental. |
 | **Techs:** React, JavaScript, APIs. | **Techs:** HTML5, CSS3, JavaScript. |
-| **Destaque:** Arquitetura SPA, componentes reutilizáveis e deploy em produção. | **Destaque:** Clean code, manipulação direta de DOM e responsividade. |
 | 🔗 [Acessar Projeto](https://mail-sense-ai.vercel.app/) | 🔗 [Acessar Projeto](https://proconsvate.vercel.app/) |
 
 ---
@@ -87,11 +81,9 @@ Desenvolvedor Front-End Júnior com experiência prática desde 2022. Meu grande
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusantunes-dev&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantunes-dev&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" height="150">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheusantunes-dev&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheusantunes-dev&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" height="150">
 </p>
-
-> ⚠️ **Nota:** Não se esqueça de trocar `matheusantunes-dev` pelo seu nome de usuário do GitHub nos links das imagens acima!
 
 ---
 
