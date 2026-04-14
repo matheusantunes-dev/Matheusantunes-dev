@@ -1,198 +1,100 @@
-# 👨‍💻 Matheus Antunes Reis
 <p align="right">
   <a href="./README.en.md">🇺🇸 English version</a>
 </p>
 
-🎯 **Front-End Developer Júnior | React • JavaScript**  
-💼 Desenvolvedor Web desde 2022  
-📍 Brasília de Minas - MG, Brasil  
+<h1 align="center">Olá! Eu sou o Matheus Antunes Reis 👋</h1>
+
+<p align="center">
+  <strong>Desenvolvedor Front-End Júnior | React • JavaScript</strong><br>
+  📍 Brasília de Minas - MG, Brasil 🇧🇷
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheusantunes-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://portifoliomatheusmr.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-%23121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="mailto:matheusantunesreis6@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/5538988064942" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 
 ---
 
-## 👋 Sobre mim
+## 👨‍💻 Sobre mim
 
-Desenvolvedor Front-End Júnior com experiência prática desde 2022 na criação de aplicações web e automações voltadas à resolução de problemas reais.
+Desenvolvedor Front-End Júnior com experiência prática desde 2022. Meu grande diferencial é unir a tecnologia à **visão analítica de negócios**: utilizo minha vivência profissional na área fiscal para entender problemas reais e criar automações e utilitários que otimizam processos internos.
 
-Possuo projetos publicados utilizando **HTML, CSS, JavaScript e React**, com foco em:
-
-- organização de código
-- componentização
-- responsividade
-- consumo de APIs REST
-- boas práticas de desenvolvimento
-
-Também desenvolvo **automações e utilitários para otimização de processos internos**, além de possuir experiência profissional na área fiscal, o que contribui para uma visão mais analítica de processos de negócio.
-
-Atualmente curso **Bacharelado em Sistemas de Informação**.
+- 🎓 Cursando **Bacharelado em Sistemas de Informação** (Uninter, 2024 - Atual).
+- 💡 Foco em **Clean Code**, componentização, responsividade e consumo de APIs REST.
+- ⭐ Sempre buscando evoluir como desenvolvedor e criar soluções que gerem impacto.
 
 ---
 
-# 🚀 Tecnologias
+## 🚀 Tecnologias e Habilidades
 
-## 🧠 Linguagens
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## ⚛️ Front-end
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-- Componentização
-- SPA (Single Page Applications)
-- Consumo de APIs REST
-- Manipulação de estado
-- Responsividade
-
----
-
-## ⚙️ Back-end
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-- Scripts de automação
-- APIs simples
-- Utilitários internos
+* **Front-end:** SPAs, componentização, manipulação de estado e interfaces responsivas.
+* **Back-end & Dados:** Scripts de automação, APIs simples, modelagem básica e consultas SQL.
+* **Ferramentas:** Versionamento (Git/GitHub), Prototipação (Figma) e Deploy (Vercel/Netlify).
 
 ---
 
-## 🗄️ Banco de Dados
+## 💼 Experiência Profissional
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🧾 Loja Quatro Estações | Auxiliar Fiscal & Desenvolvedor de Automações
+*Fev/2023 – Atual*
+- Lançamento e conferência de NF-e, controle de despesas e suporte a obrigações acessórias (Sintegra).
+- **Impacto Tecnológico:** Desenvolvimento de calculadora interna e utilitários de automação em Python/JS para padronização de cálculos fiscais.
+- 📈 **Resultados:** Redução de **~50% de erros operacionais** e diminuição de **~60% do tempo de execução** de tarefas repetitivas.
 
-- Modelagem básica
-- Consultas SQL
-- Integração com aplicações web
-
----
-
-## 🛠️ Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-- Versionamento com Git
-- Deploy em produção (Vercel / Netlify)
-- Prototipação de interfaces
+### 🧑‍💻 Projetos Independentes | Desenvolvimento Web
+*2022 – Atual*
+- Criação de aplicações web responsivas utilizando React e JavaScript (ES6+).
+- Estruturação focada em separação de responsabilidades e controle de estado modular.
+- Consumo de APIs REST com tratamento de erros.
 
 ---
 
-# 💼 Experiência
+## 💻 Projetos em Destaque
 
-## 🧑‍💻 Desenvolvimento Web — Projetos Independentes
-**2022 – Atual**
-
-- Desenvolvimento de aplicações web responsivas utilizando **React e JavaScript (ES6+)**
-- Estruturação de projetos baseada em **componentização e separação de responsabilidades**
-- Consumo de **APIs REST com tratamento de erros**
-- Controle de estado e organização modular de código
-- **Versionamento com Git** e deploy em produção (**Vercel / Netlify**)
+| 🤖 Mail Sense AI | 🌱 PROCONSVATE |
+| :--- | :--- |
+| **Descrição:** Aplicação web para análise e categorização inteligente de e-mails usando IA. | **Descrição:** Aplicação web educacional voltada à conscientização ambiental. |
+| **Techs:** React, JavaScript, APIs. | **Techs:** HTML5, CSS3, JavaScript. |
+| **Destaque:** Arquitetura SPA, componentes reutilizáveis e deploy em produção. | **Destaque:** Clean code, manipulação direta de DOM e responsividade. |
+| 🔗 [Acessar Projeto](https://mail-sense-ai.vercel.app/) | 🔗 [Acessar Projeto](https://proconsvate.vercel.app/) |
 
 ---
 
-## 🧾 Loja Quatro Estações  
-**Auxiliar Fiscal | 02/2023 – Atual**
+## 📊 Minhas Estatísticas
 
-- Lançamento e conferência de **NF-e** e controle de despesas
-- Atualização e manutenção de **cadastros em sistema interno**
-- Suporte no envio de **obrigações acessórias (Sintegra)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" height="150">
+</p>
 
-### 💡 Automação de processos
-
-- Desenvolvimento de **calculadora interna para padronização de cálculos fiscais**
-- Redução de **~50% de erros operacionais**
-- Implementação de **utilitários para automação de tarefas repetitivas**
-- Redução de **~60% do tempo de execução de processos internos**
+> ⚠️ **Nota:** Não se esqueça de trocar `SEU_USUARIO_AQUI` pelo seu nome de usuário do GitHub nos links das imagens acima!
 
 ---
 
-# 💻 Projetos em Destaque
-
-## 🌱 PROCONSVATE
-🔗 https://proconsvate.vercel.app/
-
-Aplicação web educacional voltada à conscientização ambiental.
-
-**Tecnologias**
-
-- HTML5
-- CSS3
-- JavaScript
-
-**Características**
-
-- Layout responsivo
-- Manipulação de DOM
-- Organização modular de código
-- Clean Code
-
----
-
-## 🤖 Mail Sense AI
-🔗 https://mail-sense-ai.vercel.app/
-
-Aplicação web para análise e categorização inteligente de e-mails.
-
-**Tecnologias**
-
-- React
-- JavaScript
-
-**Características**
-
-- Componentes reutilizáveis
-- Consumo de API externa
-- Estrutura SPA
-- Deploy em produção
-
----
-
-# 🎓 Formação
-
-### 🎓 Bacharelado em Sistemas de Informação  
-**Faculdade Uninter**  
-2024 – Atual
-
-- Fundamentos de desenvolvimento de sistemas
-- Projetos acadêmicos
-- Estruturação de software
-
----
-
-### 💻 Técnico em Informática  
-**Instituto Gênesis**  
-2022 – 2023
-
-- Projetos práticos
-- Atividades em laboratório
-- Suporte técnico
-
----
-
-# 🌎 Idiomas
-
-🇺🇸 Inglês — Básico  
-🇪🇸 Espanhol — Básico  
-
----
-
-# 📫 Contato
-
-📧 **Email:** matheusantunesreis6@gmail.com  
-📞 **Telefone:** (38) 98806-4942  
-
-🔗 **LinkedIn**  
-https://www.linkedin.com/in/matheusantunes-dev/
-
-🌐 **Portfólio**  
-https://portifoliomatheusmr.netlify.app/
-
----
-
-⭐ Sempre buscando evoluir como desenvolvedor e criar soluções que resolvam problemas reais.
+<p align="center">
+  <i>"Sempre buscando evoluir como desenvolvedor e criar soluções que resolvam problemas reais."</i>
+</p>
