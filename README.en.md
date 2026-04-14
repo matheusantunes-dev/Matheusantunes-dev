@@ -51,25 +51,20 @@ Junior Front-End Developer with hands-on experience since 2022. My main differen
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-* **Front-end:** SPAs, componentization, state management, and responsive interfaces.
-* **Back-end & Data:** Automation scripts, simple APIs, basic modeling, and SQL queries.
-* **Tools:** Version control (Git/GitHub), Prototyping (Figma), and Deployment (Vercel/Netlify).
-
 ---
 
 ## 💼 Professional Experience
 
 ### 🧾 Loja Quatro Estações | Tax Assistant & Automation Developer
 *Feb/2023 – Present*
-- Processing and auditing of electronic invoices (NF-e), expense control, and support for ancillary tax obligations.
-- **Technological Impact:** Development of an internal calculator and automation utilities in Python/JS to standardize tax calculations.
-- 📈 **Results:** Reduced operational errors by **~50%** and decreased execution time of repetitive tasks by **~60%**.
+- Processing and auditing of electronic invoices (NF-e) and tax support.
+- **Impact:** Developed internal Python/JS utilities to standardize tax calculations.
+- 📈 **Results:** Reduced operational errors by **~50%** and decreased task time by **~60%**.
 
 ### 🧑‍💻 Independent Projects | Web Development
 *2022 – Present*
 - Creation of responsive web applications using React and JavaScript (ES6+).
 - Structuring focused on separation of concerns and modular state management.
-- Consuming REST APIs with error handling.
 
 ---
 
@@ -77,9 +72,8 @@ Junior Front-End Developer with hands-on experience since 2022. My main differen
 
 | 🤖 Mail Sense AI | 🌱 PROCONSVATE |
 | :--- | :--- |
-| **Description:** Web application for intelligent email analysis and categorization using AI. | **Description:** Educational web application focused on environmental awareness. |
+| **Description:** Intelligent email analysis using AI. | **Description:** Environmental awareness web app. |
 | **Techs:** React, JavaScript, APIs. | **Techs:** HTML5, CSS3, JavaScript. |
-| **Highlights:** SPA architecture, reusable components, and production deployment. | **Highlights:** Clean code, direct DOM manipulation, and responsiveness. |
 | 🔗 [Access Project](https://mail-sense-ai.vercel.app/) | 🔗 [Access Project](https://proconsvate.vercel.app/) |
 
 ---
@@ -87,11 +81,9 @@ Junior Front-End Developer with hands-on experience since 2022. My main differen
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusantunes-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantunes-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheusantunes-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheusantunes-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150">
 </p>
-
-> ⚠️ **Note:** Don't forget to replace `matheusantunes-dev` with your actual GitHub username in the image links above!
 
 ---
 
