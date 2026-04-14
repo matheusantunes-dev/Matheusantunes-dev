@@ -87,11 +87,11 @@ Desenvolvedor Front-End Júnior com experiência prática desde 2022. Meu grande
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusantunes-dev&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantunes-dev&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" height="150">
 </p>
 
-> ⚠️ **Nota:** Não se esqueça de trocar `SEU_USUARIO_AQUI` pelo seu nome de usuário do GitHub nos links das imagens acima!
+> ⚠️ **Nota:** Não se esqueça de trocar `matheusantunes-dev` pelo seu nome de usuário do GitHub nos links das imagens acima!
 
 ---
 
