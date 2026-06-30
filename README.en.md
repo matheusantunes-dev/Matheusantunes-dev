@@ -2,91 +2,149 @@
   <a href="./README.md">🇧🇷 Versão em Português</a>
 </p>
 
-<h1 align="center">Hello! I'm Matheus Antunes Reis 👋</h1>
+<h1 align="center">
+Hi, I'm Matheus Antunes Reis 👋
+</h1>
+
+<h3 align="center">
+Software Developer • React • TypeScript • Kotlin • Android • Supabase
+</h3>
 
 <p align="center">
-  <strong>Junior Front-End Developer | React • JavaScript</strong><br>
-  📍 Brasília de Minas - MG, Brazil 🇧🇷
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheusantunes-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://portifoliomatheusmr.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-%23121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:matheusantunesreis6@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/5538988064942" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
+Building modern Web and Mobile applications focused on clean architecture, performance and real business solutions.
 </p>
 
 ---
 
-## 👨‍💻 About me
+# About Me
 
-Junior Front-End Developer with hands-on experience since 2022. My main differentiator is combining technology with an **analytical business perspective**: I use my professional background in the tax area to understand real-world problems and create automations and utilities that optimize internal processes.
+I'm a Software Developer focused on Web and Mobile applications.
 
-- 🎓 Pursuing a **Bachelor's Degree in Information Systems** (Uninter, 2024 - Present).
-- 💡 Focus on **Clean Code**, componentization, responsiveness, and consuming REST APIs.
-- ⭐ Always looking to evolve as a developer and build solutions that generate impact.
+My career started in the fiscal area, where I developed automation tools that reduced repetitive work and operational errors. That business background allows me to understand complex requirements before writing code.
+
+Currently, I'm part of the development team responsible for **FotoVitrine**, a commercial Android application where I work with:
+
+- Kotlin
+- Android SDK
+- Supabase
+- Google Authentication
+- Row Level Security (RLS)
+- AsyncStorage
+- REST APIs
+- Native Android Camera Features
+
+I enjoy transforming business requirements into secure, scalable and maintainable software.
 
 ---
 
-## 🚀 Technologies and Skills
+# Tech Stack
+
+### Front-end
+
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+
+### Mobile
+
+- Kotlin
+- Android SDK
+
+### Backend / BaaS
+
+- Supabase
+- Node.js
+
+### Database
+
+- PostgreSQL
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- Figma
+- VS Code
+
+---
+
+# Experience
+
+## Software Development Intern
+
+Working on **FotoVitrine**, a commercial Android application.
+
+Main responsibilities:
+
+- Android Development
+- Google Authentication
+- Supabase Integration
+- Row Level Security (RLS)
+- AsyncStorage
+- Native Camera Features
+- Git/GitHub
+
+---
+
+## Fiscal Assistant
+
+Designed internal automation tools to improve business processes, reduce manual work and increase operational efficiency.
+
+This experience strengthened my business analysis skills and software problem-solving approach.
+
+---
+
+# Featured Projects
+
+### 📸 FotoVitrine
+
+Commercial Android application built with Kotlin and Supabase.
+
+---
+
+### 🌱 PROCONSVATE
+
+Educational web application focused on environmental awareness.
+
+---
+
+### 🤖 Mail Sense AI
+
+AI-powered email analysis platform.
+
+---
+
+# Currently Learning
+
+- Software Architecture
+- Clean Architecture
+- Advanced TypeScript
+- Kotlin
+- Android Development
+- Software Engineering
+
+---
+
+# GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheusantunes-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantunes-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusantunes-dev&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 💼 Professional Experience
-
-### 🧾 Loja Quatro Estações | Tax Assistant & Automation Developer
-*Feb/2023 – Present*
-- Processing and auditing of electronic invoices (NF-e) and tax support.
-- **Impact:** Developed internal Python/JS utilities to standardize tax calculations.
-- 📈 **Results:** Reduced operational errors by **~50%** and decreased task time by **~60%**.
-
-### 🧑‍💻 Independent Projects | Web Development
-*2022 – Present*
-- Creation of responsive web applications using React and JavaScript (ES6+).
-- Structuring focused on separation of concerns and modular state management.
-
----
-
-## 💻 Featured Projects
-
-| 🤖 Mail Sense AI | 🌱 PROCONSVATE |
-| :--- | :--- |
-| **Description:** Intelligent email analysis using AI. | **Description:** Environmental awareness web app. |
-| **Techs:** React, JavaScript, APIs. | **Techs:** HTML5, CSS3, JavaScript. |
-| 🔗 [Access Project](https://mail-sense-ai.vercel.app/) | 🔗 [Access Project](https://proconsvate.vercel.app/) |
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheusantunes-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheusantunes-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150">
-</p>
-
----
-
-<p align="center">
-  <i>"Always seeking to evolve as a developer and build solutions that solve real-world problems."</i>
-</p>
+> "Software is where business challenges become scalable solutions."
