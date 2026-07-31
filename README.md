@@ -1,7 +1,11 @@
 <p align="right">
   <a href="./README.en.md">🇺🇸 English Version</a>
 </p>
-<img src="1784727992877.png" alt="Matheus Antunes - Desenvolvedor">
+
+<p align="center">
+  <img src="1784727992877.png" alt="Matheus Antunes Reis - Desenvolvedor" width="120px" style="border-radius: 50%;" />
+</p>
+
 
 
 <h1 align="center">
