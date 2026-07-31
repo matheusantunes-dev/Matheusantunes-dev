@@ -3,8 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="1784727992877.png" alt="Matheus Antunes Reis - Desenvolvedor" width="120px" style="border-radius: 50%;" />
+  <a href="https://github.com">
+    <img src="1784727992877.png" alt="Matheus Antunes Reis - Desenvolvedor" width="120" height="120" style="border-radius:50%; border: 1px solid #ccc;" align="center" />
+  </a>
 </p>
+
 
 
 <h1 align="center">
