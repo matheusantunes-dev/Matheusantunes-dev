@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com">
-    <img src="1784727992877.png" alt="Matheus Antunes Reis - Desenvolvedor" width="120" height="120" style="border-radius:50%; border: 1px solid #ccc;" align="center" />
+    <img src="1784727992877.png" alt="Matheus Antunes Reis - Desenvolvedor" width="120" height="120" style="border-radius:50px; border: 1px solid #ccc;" align="center" />
   </a>
 </p>
 
