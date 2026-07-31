@@ -2,6 +2,11 @@
   <a href="./README.md">🇧🇷 Versão em Português</a>
 </p>
 
+<p align="center">
+  <img src="1784727992877.png" alt="Matheus Antunes Reis - Desenvolvedor" width="120px" style="border-radius: 50%;" />
+</p>
+
+
 <h1 align="center">
 Hi, I'm Matheus Antunes Reis 👋
 </h1>
