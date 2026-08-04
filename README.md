@@ -26,6 +26,20 @@ Construindo aplicações Web e Mobile focadas em performance, arquitetura limpa 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://portifoliomatheusmr.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:matheusantunesreis6@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5538988064942">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
 <!-- PROJETO EM DESTAQUE -->
 <h2 align="center">📌 Projeto em Destaque</h2>
 
@@ -44,19 +58,6 @@ Construindo aplicações Web e Mobile focadas em performance, arquitetura limpa 
 - **Backend & Autenticação:** Supabase, Row Level Security (RLS), Google OAuth
 - **Arquitetura:** MVVM, Clean Architecture, Coroutines & Flow
 
-<a href="https://portifoliomatheusmr.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:matheusantunesreis6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/5538988064942">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
