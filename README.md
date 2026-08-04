@@ -26,6 +26,24 @@ Construindo aplicações Web e Mobile focadas em performance, arquitetura limpa 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<!-- PROJETO EM DESTAQUE -->
+<h2 align="center">📌 Projeto em Destaque</h2>
+
+<div align="center">
+  <h3>📸 FotoVitrine</h3>
+  <p><i>Aplicativo Android para captura, gestão e envio inteligente de mídias comerciais.</i></p>
+</div>
+
+<blockquote>
+  🔒 <b>Nota de Privacidade:</b> Por se tratar de um produto comercial proprietário, o código-fonte deste repositório é mantido estritamente privado em conformidade com as políticas da empresa.
+</blockquote>
+
+<p><b>Arquitetura & Tecnologias Aplicadas:</b></p>
+
+- **Mobile Native:** Kotlin, Android SDK, CameraX, Storage
+- **Backend & Autenticação:** Supabase, Row Level Security (RLS), Google OAuth
+- **Arquitetura:** MVVM, Clean Architecture, Coroutines & Flow
+
 <a href="https://portifoliomatheusmr.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
