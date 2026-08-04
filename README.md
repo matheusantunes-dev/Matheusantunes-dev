@@ -13,7 +13,7 @@ Olá, eu sou o Matheus Antunes Reis 👋
 </h1>
 
 <h3 align="center">
-Software Developer • React • TypeScript • Kotlin • Android • Supabase
+Desenvolvedor Frontend / Mobile Júnior | React.js • TypeScript • Kotlin • Supabase • Android
 </h3>
 
 <p align="center">
