@@ -15,7 +15,7 @@ Hi, I'm Matheus Antunes Reis 👋
 </h1>
 
 <h3 align="center">
-Software Developer • React • TypeScript • Kotlin • Android • Supabase
+Frontend Developer / Mobile Dev | React.js • TypeScript • Kotlin • Supabase • Android
 </h3>
 
 <p align="center">
@@ -23,6 +23,24 @@ Building modern Web and Mobile applications focused on clean architecture, perfo
 </p>
 
 ---
+
+<!-- FEATURED PROJECT -->
+<h2 align="center">📌 Featured Project</h2>
+
+<div align="center">
+  <h3>📸 FotoVitrine</h3>
+  <p><i>Android application for smart capture, management, and sharing of commercial media.</i></p>
+</div>
+
+<blockquote>
+  🔒 <b>Privacy Note:</b> As this is a proprietary commercial product, the source code for this repository is kept strictly private in accordance with company policies.
+</blockquote>
+
+<p><b>Architecture & Applied Technologies:</b></p>
+
+- **Mobile Native:** Kotlin, Android SDK, CameraX, Storage
+- **Backend & Auth:** Supabase, Row Level Security (RLS), Google OAuth
+- **Architecture:** MVVM, Clean Architecture, Coroutines & Flow
 
 # About Me
 
