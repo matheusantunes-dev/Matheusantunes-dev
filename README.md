@@ -189,6 +189,7 @@ Aplicação para análise inteligente de e-mails utilizando IA.
 - TypeScript Avançado
 - Kotlin
 - Boas práticas de Engenharia de Software
+- Java e Spring Boot
 
 ---
 
