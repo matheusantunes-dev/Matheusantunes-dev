@@ -44,7 +44,7 @@ Building modern Web and Mobile applications focused on clean architecture, perfo
 
 # About Me
 
-I'm a Software Developer focused on Web and Mobile applications.
+I am a software developer focused on building robust end-to-end solutions (Web, Mobile, and Backend).
 
 My career started in the fiscal area, where I developed automation tools that reduced repetitive work and operational errors. That business background allows me to understand complex requirements before writing code.
 
