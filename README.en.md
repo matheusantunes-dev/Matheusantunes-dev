@@ -152,6 +152,7 @@ AI-powered email analysis platform.
 - Kotlin
 - Android Development
 - Software Engineering
+- Java and Spring Boot
 
 ---
 
