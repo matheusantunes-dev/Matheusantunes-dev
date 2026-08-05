@@ -63,7 +63,7 @@ Construindo aplicações Web e Mobile focadas em performance, arquitetura limpa 
 
 # Sobre mim
 
-Sou Desenvolvedor de Software com foco em aplicações **Web** e **Mobile**.
+Sou Desenvolvedor de Software focado em construir soluções robustas de ponta a ponta (Web, Mobile e Backend)
 
 Minha carreira começou na área fiscal, onde desenvolvi soluções para automatizar processos internos, reduzir erros operacionais e aumentar a produtividade. Essa experiência despertou meu interesse pelo desenvolvimento de software e hoje atuo construindo aplicações modernas utilizando React, TypeScript, Kotlin e Supabase.
 
