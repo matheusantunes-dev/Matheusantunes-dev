@@ -15,7 +15,7 @@ Hi, I'm Matheus Antunes Reis 👋
 </h1>
 
 <h3 align="center">
-Frontend Developer / Mobile Dev | React.js • TypeScript • Kotlin • Supabase • Android
+ Software Developer Jr | React.js • TypeScript • Kotlin • Supabase • Android • Backend • Java • Spring Boot
 </h3>
 
 <p align="center">
